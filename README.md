@@ -1,1 +1,1 @@
-# module-2-burhan
+# module-solution-2-burhan
